@@ -4,7 +4,7 @@ Create your own emoji site . http://emojipaste.us
 
 <h2>Uploading the files<small> How to upload the files</small></h2>
 <hr>
-<p>1 - Unzip the archive provided by</p>
+<p>1 - Unzip the archive provided</p>
 <p>2 - Navigate to the "Upload" folder and upload the contents to your webhost</p>
 
 </br>
